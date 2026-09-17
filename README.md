@@ -8,4 +8,4 @@ isso aqui e um repositorio teste entao nao liguem OK?
 
 ### tchau
 
-oi denovo
+oi denovo acessa o [instalacao](docs/instalacao.md)
